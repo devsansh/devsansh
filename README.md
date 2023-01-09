@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsansh&label=Profile%20views&color=0e75b6&style=flat" alt="devsansh" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsansh" alt="devsansh" /></a> </p>
+
 - 🌱 I’m currently learning **Android Development , Advance Data Science using R and improving DSA**
 
 - 💬 Ask me about **C,C++,Kotlin,Sql,Python**
