@@ -1,11 +1,11 @@
 <h1 align="center">Hey👋... I am Devansh Sharma</h1>
-<h3 align="center">|| 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 || 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 || 𝙻𝚒𝚗𝚞𝚡--𝙿𝚘𝚙 𝙾𝚂 || 𝙲𝚘𝚍𝚎 𝙲𝚑𝚎𝚏 ||</h3>
+<h3 align="center">|| 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 || 𝙻𝚒𝚗𝚞𝚡--𝙿𝚘𝚙 𝙾𝚂 || 𝙲𝚘𝚍𝚎 𝙲𝚑𝚎𝚏 ||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsansh&label=Profile%20views&color=0e75b6&style=flat" alt="devsansh" /> </p>
 
-- 🌱 I’m currently learning **Android Development , Advance Data Science using R and improving DSA**
+- 🌱 I’m currently learning **Android Development & Improving DSA**
 
-- 💬 Ask me about **C,C++,Kotlin,Sql,Python**
+- 💬 Ask me about **C/C++, Kotlin, MySql, Python3 & R**
 
 - 📫 How to reach me **devsarrawatia@gmail.com**
 
